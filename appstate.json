@@ -1,1 +1,92 @@
-Nhớ giữ credit nhé!
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261550281761987%22%3A%22o91CJamu%22%2C%2261576967601502%22%3A%22osgKxpZA%22%2C%22100078581187793%22%3A%221pRk6DJS%22%2C%2261578344922308%22%3A%22OqSGuy20%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "ar_debug",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "sb",
+		"value": "GBeDaMPDaKqNDhn5JmwW_Q-Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "dpr",
+		"value": "1.125",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "wd",
+		"value": "1647x756",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100078581187793",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "datr",
+		"value": "RNWIaPXU5BpeAy_DyYEC8b0e",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "fr",
+		"value": "1mPzmeEjgtdHgWQrO.AWfTDRJ1dNehXts_W4hx4aUfdS8sFF8VDNNQzX5ZeOOfBFcH-GM.BoiNfu..AAA.0.0.BoiNfu.AWcO8iCmchk0d6UCE7QeTC64RfI",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "xs",
+		"value": "30%3Ayj5BRu4VCs_IRA%3A2%3A1753797956%3A-1%3A-1%3A%3AAcXiljTl9MfxEvzupZrVwpHkXbdEc05SBsSkJp3bqg",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22g.24689616557317994%22%7D%5D%2C%22utc3%22%3A1753798853881%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:23:56.515Z",
+		"lastAccessed": "2025-07-29T14:23:56.515Z"
+	}
+]
